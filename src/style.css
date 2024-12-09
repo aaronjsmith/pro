@@ -4,6 +4,7 @@ body{
     align-items: center;    /* Center vertically */
     height: 100vh;          /* Full viewport height */
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	background-color: #03191E;
     
 }
 body section:first-child{
@@ -11,8 +12,8 @@ body section:first-child{
     height: 70vh;
    /* border: 3px dashed #f9f9f9; */
     background-color: #03191E;
-    border-radius: 3px;
-    box-shadow: 1px 10px 35px -6px rgba(0, 0, 0, 0.53);
+    /*border-radius: 3px;
+    box-shadow: 1px 10px 35px -6px rgba(0, 0, 0, 0.53);*/
     
 }
 
