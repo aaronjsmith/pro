@@ -4,6 +4,15 @@
 	width: 95vw;
     height: 95vh;
 
-    
-	}
+    }
+
+body section header nav{
+	display: block;
+    width: 45%;
+    max-width: 470px;
+    background-color: #03191E;
+    color: white;
+    height: 20vh;
+    text-align: left;
+}
 }
