@@ -8,8 +8,8 @@ body{
 body section:first-child{
 	width: 70vw;
     height: 70vh;
-    border: 3px dashed #f9f9f9;
-    background-color: #fff;
+   /* border: 3px dashed #f9f9f9; */
+    background-color: #03191E;
     border-radius: 3px;
     box-shadow: 1px 10px 35px -6px rgba(0, 0, 0, 0.53);
     
