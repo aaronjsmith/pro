@@ -61,6 +61,7 @@ body section h1{
     text-align: justify;
     padding: 3%;
         display: inline-block;
+	max-width: 470px;
 }
 body section h1 small{
 font-size: 45%;
